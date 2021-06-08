@@ -11,8 +11,8 @@
       regional atmospheric circulation patterns. The MAE was calculated separately
       for each grid box of a regular 2.5 deg lat-lon mesh extending from 22.5W to
       42.5E and 30N to 70N. The spatial median MAE is provided here. Reference
-      dataset to compute the metric is ERA-Interim. As reference, the value for
-      the JRA-55 reanalysis is 0.0956
+      dataset to compute the metric is ERA-Interim. As a measure of observational
+      uncertainty, the value for the JRA-55 reanalysis is 0.0956.
     best: 0
     worst: 100
   type: performance
